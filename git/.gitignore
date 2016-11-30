@@ -1,0 +1,18 @@
+# Node Stuff
+node_modules
+npm-debug.log
+
+# Thumbnails
+._*
+
+## Ignore Mac OS Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows shortcuts
+*.lnk
